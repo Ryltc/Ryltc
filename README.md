@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ryltc aka Realize Your Life Through Coding
+- 👋 Hi, I’m Hector, an entry level web developer
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Anglular
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - email, phone, website. 
 
